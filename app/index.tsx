@@ -7,6 +7,10 @@ import React, { useEffect, useState } from 'react';
 import { ActivityIndicator, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+/**
+ * Ignore the unused files, I made this in a hurry and didn't delete 
+ * the template generated files like (tabs) and some components
+ */
 
 export default function index() {
 
